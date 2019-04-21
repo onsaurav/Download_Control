@@ -1,0 +1,49 @@
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\bin\Debug\Download_Control.dll
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\ResolveAssemblyReference.cache
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.ctlViewDownload.resources
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.frmDetail.resources
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.frmDownload.resources
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.frmViewDownloads.resources
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.Resources.resources
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.ucDownload.resources
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\GenerateResource.read.1.tlog
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\GenerateResource.write.1.tlog
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.dll.licenses
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.dll
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.xml
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\obj\Debug\Download_Control.pdb
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\bin\Debug\Download_Control.pdb
+E:\Practice\VB.net\Download_Control\Download_Control\Download_Control\bin\Debug\Download_Control.xml
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\bin\Debug\Download_Control.dll
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\bin\Debug\Download_Control.pdb
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\bin\Debug\Download_Control.xml
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\ResolveAssemblyReference.cache
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.ctlViewDownload.resources
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.frmDetail.resources
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.frmDownload.resources
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.frmViewDownloads.resources
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.Resources.resources
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.ctDownload.resources
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\GenerateResource.read.1.tlog
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\GenerateResource.write.1.tlog
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.dll.licenses
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.dll
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.xml
+D:\My Soft\VB.net\Download_Control\New folder\Download_Control - Copy\Download_Control\obj\Debug\Download_Control.pdb
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\bin\Debug\Download_Control.dll
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\bin\Debug\Download_Control.pdb
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\bin\Debug\Download_Control.xml
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\ResolveAssemblyReference.cache
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.ctlViewDownload.resources
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.frmDetail.resources
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.frmDownload.resources
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.frmViewDownloads.resources
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.Resources.resources
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.ctDownload.resources
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\GenerateResource.read.1.tlog
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\GenerateResource.write.1.tlog
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.dll.licenses
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.dll
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.xml
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.pdb
+D:\My Soft\VB.net\Download_Control\Download_Control Jul-07-2012\Download_Control\obj\Debug\Download_Control.vbproj.GenerateResource.Cache

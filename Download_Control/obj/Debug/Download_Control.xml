@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Download_Control
+</name>
+</assembly>
+<members>
+<member name="P:Download_Control.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Download_Control.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Download_Control.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Download_Control.DownloadItem">
+	<summary>
+	</summary>
+</member><member name="M:Download_Control.frmDownload.frmDownload_Resize(System.Object,System.EventArgs)">
+	<summary>
+ Handles the Resize event of the frmDownload control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.frmDownload.frmDownload_Load(System.Object,System.EventArgs)">
+	<summary>
+ Handles the Load event of the frmDownload control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.frmDownload.ResizeControls">
+	<summary>
+ Resizes the controls.
+ </summary>
+</member><member name="M:Download_Control.frmDownload.btnBrowse_Click(System.Object,System.EventArgs)">
+	<summary>
+ Handles the Click event of the btnBrowse control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.frmDownload.GetSelectedFileName">
+	<summary>
+ Gets the name of the selected file.
+ </summary><returns></returns>
+</member><member name="M:Download_Control.frmDownload.GetSelectedXMLNodes(System.String,System.String)">
+	<summary>
+ Gets the selected XML nodes.
+ </summary>
+	<param name="FileName">Name of the file.</param>
+	<param name="TagName">Name of the tag.</param><returns></returns>
+</member><member name="M:Download_Control.frmDownload.GetImage(System.String)">
+	<summary>
+ Gets the image.
+ </summary>
+	<param name="sURL">The s URL.</param><returns></returns>
+</member><member name="M:Download_Control.frmDownload.gcDownload_Gallery_ItemClick(System.Object,DevExpress.XtraBars.Ribbon.GalleryItemClickEventArgs)">
+	<summary>
+ Handles the ItemClick event of the gcDownload_Gallery control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:DevExpress.XtraBars.Ribbon.GalleryItemClickEventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.ctDownload.frmDownload_Resize(System.Object,System.EventArgs)">
+	<summary>
+ Handles the Resize event of the frmDownload control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.ctDownload.frmDownload_Load(System.Object,System.EventArgs)">
+	<summary>
+ Handles the Load event of the frmDownload control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.ctDownload.ResizeControls">
+	<summary>
+ Resizes the controls.
+ </summary>
+</member><member name="M:Download_Control.ctDownload.btnBrowse_Click(System.Object,System.EventArgs)">
+	<summary>
+ Handles the Click event of the btnBrowse control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:Download_Control.ctDownload.GetSelectedFileName">
+	<summary>
+ Gets the name of the selected file.
+ </summary><returns></returns>
+</member><member name="M:Download_Control.ctDownload.GetSelectedXMLNodes(System.String,System.String)">
+	<summary>
+ Gets the selected XML nodes.
+ </summary>
+	<param name="FileName">Name of the file.</param>
+	<param name="TagName">Name of the tag.</param><returns></returns>
+</member><member name="M:Download_Control.ctDownload.GetImage(System.String)">
+	<summary>
+ Gets the image.
+ </summary>
+	<param name="sURL">The s URL.</param><returns></returns>
+</member><member name="M:Download_Control.ctDownload.gcDownload_Gallery_ItemClick(System.Object,DevExpress.XtraBars.Ribbon.GalleryItemClickEventArgs)">
+	<summary>
+ Handles the ItemClick event of the gcDownload_Gallery control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:DevExpress.XtraBars.Ribbon.GalleryItemClickEventArgs"/> instance containing the event data.</param>
+</member><member name="P:Download_Control.ctDownload.DownloadPath">
+	<summary>
+ Sets the download path.
+ </summary>
+	<value>
+ The download path.
+ </value>
+</member><member name="P:Download_Control.ctDownload.SourcePath">
+	<summary>
+ Sets the source path.
+ </summary>
+	<value>
+ The source path.
+ </value>
+</member>
+</members>
+</doc>

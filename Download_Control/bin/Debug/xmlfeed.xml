@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates>
+
+<template>
+<name>My First Template</name>
+<category>Cool Templates</category>
+<releasedate>2012/06/25</releasedate>
+<version>1.0</version>
+<screenshot>http://png-2.findicons.com/files//icons/1261/sticker_system/128/home.png</screenshot>
+<templateFile>http://www.site.com/templates/template1.lfp</templateFile>
+<previewUrl>http://trafficshare.eazyupload.net/d/zXuhuPdnpvPkX0HficnYYGYq5LzCfH0U</previewUrl>
+<templateFileMD5>wgknwefoin23f0239023nf2i3fn2o3f</templateFileMD5>
+</template>
+
+<template>
+<name>My Second Template</name>
+<category>Hot Templates</category>
+<releasedate>2012/06/25</releasedate>
+<version>1.0</version>
+<screenshot>http://png-1.findicons.com/files//icons/1012/racing_cars/128/chrysler.png</screenshot>
+<templateFile>http://www.site.com/templates/template2.lfp</templateFile>
+<previewUrl>http://trafficshare.eazyupload.net/d/3m6JKUnnkicBkfpStj0vGw3HAstSSrDK</previewUrl>
+<templateFileMD5>22lknfwe0f92lfknweg09wregnweg09n2fo23fn</templateFileMD5>
+</template>
+
+
+<template>
+<name>My Third Template</name>
+<category>Cool Templates</category>
+<releasedate>2012/06/25</releasedate>
+<version>1.0</version>
+<screenshot>http://png-2.findicons.com/files//icons/185/lovely_bones/128/tree_archigraphs.png</screenshot>
+<templateFile>http://www.site.com/templates/template2.lfp</templateFile>
+<previewUrl>http://trafficshare.eazyupload.net/d/ZPD2otOyPZ23Yrkqf3XKYWyTPGs3LkZk</previewUrl>
+<templateFileMD5>22lknfwe0f92lfknweg09wregnweg09n2fo23fn</templateFileMD5>
+</template>
+
+<template>
+<name>My Forth Template</name>
+<category>Hot Templates</category>
+<releasedate>2012/06/25</releasedate>
+<version>1.0</version>
+<screenshot>http://png-3.findicons.com/files//icons/1786/oxygen_refit/128/applications_office.png</screenshot>
+<templateFile>http://www.site.com/templates/template2.lfp</templateFile>
+<previewUrl>http://trafficshare.eazyupload.net/d/EsbEDuabbLJGzqdcsqu5hiyEDfWd4Eo9</previewUrl>
+<templateFileMD5>22lknfwe0f92lfknweg09wregnweg09n2fo23fn</templateFileMD5>
+</template>
+
+<template>
+<name>My Fifth Template</name>
+<category>Hot Templates</category>
+<releasedate>2012/06/25</releasedate>
+<version>1.0</version>
+<screenshot>http://png-3.findicons.com/files//icons/1786/oxygen_refit/128/system_config_boot.png</screenshot>
+<templateFile>http://www.site.com/templates/template2.lfp</templateFile>
+<previewUrl>http://trafficshare.eazyupload.net/d/HyqZ4AKrn6GbZqeHprC0yYhO3SfbZieh</previewUrl>
+<templateFileMD5>22lknfwe0f92lfknweg09wregnweg09n2fo23fn</templateFileMD5>
+</template>
+
+
+</templates>
